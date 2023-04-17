@@ -1,7 +1,8 @@
-# Bioinformatics Laboratories
+# LBioinf
 
 ## Curricular Unit
-Masters in Bioinformatics, University of Minho, 2021-2022.
+LBioinf - Bioinformatics Laboratories<br>
+Masters in Bioinformatics, University of Minho (2021-2022)
 
 
 ## Description
