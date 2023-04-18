@@ -7,5 +7,5 @@ Masters in Bioinformatics, University of Minho (2021-2022)
 
 ## Description
 The objective of this work is to make use of the computational tools addressed
-in the curricular unit for the analysis of a set of genes potentially related
-to antibiotic resistance in bacteria.
+in the curricular unit for the analysis of a set of bacterial genes potentially
+associated to antibiotic resistance.
